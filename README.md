@@ -1,4 +1,6 @@
 #modul 10 pencarian nilai pada himpunan data
+
+
 1)Program Penentuan Berat Kelinci Terkecil dan Terbesar
 Program ini dirancang untuk mendata berat kelinci yang akan dijual ke pasar. Program menerima masukan berupa jumlah kelinci (N) dan berat masing-masing kelinci. Dengan menggunakan array untuk menyimpan data berat, program akan mencari dan menampilkan berat kelinci terkecil dan terbesar. Hasil akhirnya adalah dua bilangan riil yang merepresentasikan berat minimum dan maksimum dari semua kelinci yang didata.
 
